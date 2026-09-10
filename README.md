@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**mth102402131/mth102402131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# Hi there 👋
+# 你好，我是马天鸿 👋 
 
 ## 🛠️ 技术栈
 我具备扎实的编程基础，并正在不断拓展大数据生态的技能树：
