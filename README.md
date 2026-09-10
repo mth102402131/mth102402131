@@ -3,14 +3,34 @@
 <!--
 **mth102402131/mth102402131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ 技术栈
+我具备扎实的编程基础，并正在不断拓展大数据生态的技能树：
+
+| 领域 | 技术/工具 | 掌握程度 |
+| ---- | ---- | ---- |
+| 编程语言 | Python, C | 🟢 熟练掌握 |
+| 大数据生态 | Hadoop, HDFS, MapReduce, Hive, HBase, Spark | 🟡 初步了解 |
+| 核心能力 | 复杂逻辑分析、算法设计 | 🟢 优势领域 |
+| 前沿探索 | 大模型技术 (LLM) | 🔵 学习中 |
+
+## 🚀 项目经历
+### Hugging Face API 实践让我比较完整地体验了从 AI 模型 API 到 Web 前端交互的过程
+
+## 🎯 未来规划
+- **深耕大模型技术**：对大语言模型（LLM）充满热情，计划系统学习 Transformer 架构、微调（Fine-tuning）及 RAG 等前沿技术，并尝试将其落地到实际应用中。
+- **坚定就业导向**：以直接就业为职业规划核心，注重工程实践与代码规范，致力于成为企业即插即用的技术人才。
+- **持续开源贡献**：保持对技术的敏感度，积极参与开源社区，用代码记录成长。
+
+## 🎨 兴趣爱好
+代码之外，我也注重劳逸结合，保持大脑的活跃与身体的健康：
+- 🏃‍♀️ **跑步**：享受挥洒汗水的快感，保持充沛的精力。
+- ♟️ **下象棋**：在黑白交错与楚河汉界中锻炼大局观与深度逻辑推理能力，这与我的编程思维不谋而合。
+
+---
+### 
+#### GitHub 统计卡片
+```markdown
+
+
